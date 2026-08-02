@@ -39,7 +39,7 @@
        <item>
         <widget class="QLabel" name="label_84">
          <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700; color:#ffaa00;&quot;&gt;READ ME&lt;/span&gt; There are a lot of settings, bust most people probably only want to change 3 of them (visibility, position, and disable the hints). I have marked them with &lt;span style=&quot; font-weight:700; color:#ffaa00;&quot;&gt;IMPORTANT&lt;/span&gt; tag so they are easy to find.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700; color:#ffaa00;&quot;&gt;READ ME&lt;/span&gt; There are a lot of settings, but most people probably only want to change 3 of them (visibility, position, and disable the hints). I have marked them with &lt;span style=&quot; font-weight:700; color:#ffaa00;&quot;&gt;IMPORTANT&lt;/span&gt; tag so they are easy to find.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
          <property name="wordWrap">
           <bool>true</bool>
